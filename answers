@@ -1,0 +1,60 @@
+question 1:
+justify-content: flex-end;
+question 2:
+justify-content: center
+question 3:
+justify-content: space-around
+question 4:
+justify-content: space-between
+question 5:
+align-items: flex-end
+question 6:
+align-items:center;
+justify-content: center;
+question 7:
+justify-content: space-around;
+align-items: flex-end
+question 8:
+flex-direction: row-reverse;
+question 9:
+flex-direction: column;
+question 10:
+flex-direction: row-reverse;
+justify-content:flex-end;
+question 11:
+ flex-direction: column;
+justify-content: flex-end;
+question 12:
+ flex-direction: column-reverse;
+justify-content: space-between;
+question 13:
+ flex-direction: row-reverse;
+align-items: flex-end; 
+ justify-content: center
+question 14:
+order:1
+question 15: 
+order:-3
+question 16:
+align-self:flex-end;
+question 17:
+align-self: flex-end;
+ order: 1;
+question 18:
+flex-wrap: wrap;
+question 19:
+flex-wrap: wrap;
+flex-direction:column;
+question 20:
+flex-flow: column wrap 
+question 21: 
+align-content: flex-start;
+question 22:
+align-content: flex-end;
+question 23:
+flex-direction:column-reverse;
+align-content:center;
+question 24:
+flex-flow:column-reverse wrap-reverse;
+    justify-content:center;
+    align-content:space-between;
